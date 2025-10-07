@@ -16,7 +16,7 @@ export default function OpeningPage({ onOpenInvitation }) {
       />
       <h1 className="text-5xl font-serif font-bold mb-2">Selamat Datang</h1>
       <p className="text-2xl mb-8">Diundangan Pernikahan</p>
-      <p className="text-xl italic mb-10">Fulan & Fulanah</p>
+      <p className="text-xl italic mb-10">Tirta & Risyal</p>
       <button
         onClick={onOpenInvitation}
         className="bg-pink-600 text-white px-8 py-4 rounded-full shadow-lg hover:bg-pink-700 transition"

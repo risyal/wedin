@@ -13,20 +13,20 @@ export default function EventDetails() {
   const events = [
     {
       title: "🕌 Akad Nikah",
-      date: "Sabtu",
-      day: "11",
+      date: "Kamis",
+      day: "30",
       month: "Oktober 2025",
-      time: "09.00 WIB - 10.00 WIB",
-      location: "Masjid Raya Bintaro Jaya (Sektor 9), Tangerang Selatan.",
+      time: "10.30 WITA - 11.00 WITA",
+      location: "Kediaman Mempelai Wanita",
       color: THEME.primary,
     },
     {
       title: "🎉 Resepsi",
-      date: "Sabtu",
-      day: "11",
+      date: "Kamis",
+      day: "30",
       month: "Oktober 2025",
-      time: "11.00 WIB - 13.00 WIB",
-      location: "Masjid Raya Bintaro Jaya (Sektor 9), Tangerang Selatan.",
+      time: "11.00 WITA - Selesai",
+      location: "Kediaman Mempelai Wanita",
       color: THEME.secondary,
     },
   ];

@@ -11,7 +11,7 @@ import bgImage from "@src/assets/images/bgijo.png";
 
 // === Konstanta Acara ===
 const WEDDING_DATE = new Date("2025-10-30T10:30:00");
-const COUPLE_NAMES = "Fulanah & Fulan";
+const COUPLE_NAMES = "Tirta & Risyal";
 const WEDDING_DAY = "Kamis, 30 Oktober 2025";
 
 // === Warna Tema Hijau Datu Bugis (Diperbaiki: Kontras Tinggi untuk Readability) ===

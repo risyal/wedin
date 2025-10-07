@@ -29,7 +29,7 @@ export default function DigitalEnvelope() {
           <p>Rekening Bank:</p>
           <p className="font-bold text-xl">1234 5678 9012 3456</p>
           <p>Bank ABC</p>
-          <p>Atas Nama: Fulan & Fulanah</p>
+          <p>Atas Nama: Tirta & Risyal</p>
         </Motion.div>
       )}
     </Motion.div>

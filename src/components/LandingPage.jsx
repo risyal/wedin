@@ -102,7 +102,7 @@ export default function LandingPage({ onOpenInvitation }) {
               className="text-3xl md:text-5xl font-serif text-green-800 mb-2"
               style={{ fontFamily: "Georgia, serif" }}
             >
-              Fulanah & Fulan
+              Tirta & Risyal
             </h1>
             <div className="flex items-center justify-center gap-3 mt-2">
               <div className="w-8 h-px bg-green-300"></div>
