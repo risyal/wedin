@@ -20,18 +20,18 @@ export default function MempelaiInfo() {
   const isInView = useInView(ref, { once: true, amount: 0.3 });
 
   const groom = {
-    name: "Ahmad Rizki",
+    name: "Risyal Atriansyah",
     job: "Software Engineer",
     hobby: "Traveling & Fotografi",
-    bio: "Pria sederhana yang mencintai petualangan dan teknologi. Siap membangun keluarga bahagia bersama Sarah.",
+    bio: "-",
     image: groomImage,
   };
 
   const bride = {
-    name: "Sarah Nurul",
-    job: "Graphic Designer",
+    name: "Tirta Dewi S",
+    job: "-",
     hobby: "Membaca & Memasak",
-    bio: "Wanita ceria yang penuh kreativitas. Bersyukur bertemu Ahmad untuk melanjutkan perjalanan hidup.",
+    bio: "-",
     image: brideImage,
   };
 
